@@ -1,9 +1,9 @@
 ::protected No
-::author_email humble.discipulus@gmail.com
+::author_email 
 ::name Corpus generator
 ::category Communication
 ::language en
-::author Aakash Mallik
+::author 
 ::author_url <author_url>
 ::description <description> 
 ::dynamic_content <Yes/No>

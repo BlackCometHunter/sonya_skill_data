@@ -1,7 +1,7 @@
 # tells facts on numbers
 ::name  Facts on numbers
-::author Sanjana Sanikommu
-::author_url https://github.com/SanjanaSanikommu
+::author 
+::author_url 
 ::image images/Facts.jpg
 ::dynamic_content Yes
 ::description Interesting facts on numbers,trivia,date

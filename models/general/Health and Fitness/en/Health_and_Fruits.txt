@@ -1,9 +1,9 @@
 ::protected No
-::author_email sanjanasanikommu@gmail.com
+::author_email 
 ::name Health and Fruits
 ::category Health and Fitness
 ::language en
-::author Sanj99
+::author
 ::author_url https://github.com/SanjanaSanikommu
 ::description Gives Information about health benefits of fruits 
 ::dynamic_content Yes

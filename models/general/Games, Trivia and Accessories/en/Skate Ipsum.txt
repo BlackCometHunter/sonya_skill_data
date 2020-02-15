@@ -1,10 +1,10 @@
 ::protected No
-::author_email marc.nause@audioattack.de
+::author_email 
 ::name Skate Ipsum
 ::category Games, Trivia and Accessories
 ::language en
-::author Marc Nause
-::author_url https://github.com/Low012
+::author 
+::author_url 
 ::description Show random dummy text for a mockup
 ::dynamic_content Yes
 ::developer_privacy_policy

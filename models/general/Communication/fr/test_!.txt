@@ -1,9 +1,9 @@
 ::protected No
-::author_email 29hj29@gmail.com
+::author_email 
 ::name test_!
 ::category Communication
 ::language fr
-::author harsh
+::author 
 ::author_url <author_url>
 ::description <description> 
 ::dynamic_content <Yes/No>

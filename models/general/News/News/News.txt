@@ -154,7 +154,7 @@ articles in *
 }
 eol 
 
-most viewed articles | can you tell me most viewed articles | please tell me most viewed articles | tell me most viewed articles susi | show me articles | articles please
+most viewed articles | can you tell me most viewed articles | please tell me most viewed articles | tell me most viewed articles sonya | show me articles | articles please
 !example:show me articles
 !console:
 {
@@ -168,7 +168,7 @@ most viewed articles | can you tell me most viewed articles | please tell me mos
 eol 
 
 
-most emailed articles | can you tell me most emailed articles | please tell me most emailed articles | tell me most emailed articles susi
+most emailed articles | can you tell me most emailed articles | please tell me most emailed articles | tell me most emailed articles sonya
 !example:most emailed articles
 !console:
 {
@@ -182,7 +182,7 @@ most emailed articles | can you tell me most emailed articles | please tell me m
 eol 
 
 
-most shared articles | can you tell me most shared articles | please tell me most shared articles | tell me most shared articles susi
+most shared articles | can you tell me most shared articles | please tell me most shared articles | tell me most shared articles sonya
 !example:most shared articles
 !console:
 {

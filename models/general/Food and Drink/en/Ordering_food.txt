@@ -1,7 +1,7 @@
 ::protected No
-::author_email lontrid@mail.ru
+::author_email 
 ::protected No
-::author_email lontrid@mail.ru
+::author_email 
 ::name Ordering food
 ::category Food and Drink
 ::language en

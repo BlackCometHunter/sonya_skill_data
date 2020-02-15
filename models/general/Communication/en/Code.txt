@@ -1,5 +1,5 @@
 ::protected No
-::author_email bam0909@outlook.com
+::author_email 
 ::name Code
 ::category Communication
 ::language en

@@ -1,10 +1,10 @@
 ::protected No
-::author_email heyankesh@gmail.com
+::author_email 
 ::name Interest Reminder
 ::category Interests
 ::language en
-::author Akash Raj
-::author_url https://github.com/aakash85r
+::author 
+::author_url 
 ::description It will remember your interests once you will tell him.
 ::dynamic_content No
 ::developer_privacy_policy 

@@ -1,5 +1,5 @@
 ::protected No
-::author_email lee.yunze@dhs.sg
+::author_email 
 ::name bot_2
 ::category Food and Drink
 ::language en

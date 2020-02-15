@@ -1,9 +1,9 @@
 ::protected No
-::author_email lontrid@mail.ru
+::author_email 
 ::name Ordering food
 ::category Food and Drink
 ::language en
-::author Oleg
+::author 
 ::author_url -
 ::description -
 ::dynamic_content No

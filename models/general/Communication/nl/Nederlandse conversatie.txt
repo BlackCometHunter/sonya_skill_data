@@ -1,9 +1,9 @@
 ::protected No
-::author_email patrick@patenmon.com
+::author_email
 ::name Nederlandse conversatie
 ::category Communication
 ::language nl
-::author Patrick Jenner
+::author 
 ::author_url <author_url>
 ::description <description> 
 ::dynamic_content <Yes/No>

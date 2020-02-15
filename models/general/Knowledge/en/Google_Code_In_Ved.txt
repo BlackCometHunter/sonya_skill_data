@@ -1,5 +1,5 @@
 ::protected No
-::author_email vedaangh.rungta@gmail.com
+::author_email 
 ::name  Google Code In Ved
 ::category Knowledge
 ::language en

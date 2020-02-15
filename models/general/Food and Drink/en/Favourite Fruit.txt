@@ -1,7 +1,7 @@
 ::name Favourite Fruit
 ::author Sanskar Jethi
 ::author_url https://github.com/stealthanthrax
-::description A skill to show favourite fruits of Susi 
+::description A skill to show favourite fruits of Sonya 
 ::dynamic_content No
 ::image images/616a278643145138769344229bd75a4c.png
 

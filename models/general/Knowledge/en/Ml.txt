@@ -25,13 +25,13 @@ Should we play a game?Or "Let It Go!" ?
 !example: *water
 Hm...Let me figure out!Ah,lets buy at Coles/Grawer store!
 
-* Thanks SUSI for your help | * Thanks SUSI | * SUSI, I appreciate your help | * Thanks SUSI * 
-!example:Thanks SUSI for your help!
+* Thanks SONYA for your help | * Thanks SONYA | * SONYA, I appreciate your help | * Thanks SONYA * 
+!example:Thanks SONYA for your help!
 I am glad I could be of help to you.
 
 * cook
 !example:cooking
-SUSI AT YOUR SERCVICE!How can I help you?
+SONYA AT YOUR SERCVICE!How can I help you?
 
 * gif | * GIF | * Gif
 !example:create a gif
@@ -42,8 +42,8 @@ Pictures needed!But here some for you https://media0.giphy.com/media/Y3w5VPJwJjj
 A few moments please!Here are some for you!
 docs/images/color/000000.png docs/images/color/071E3D.png docs/images/color/E0E0E0.png
 
-I love your * SUSI | I love you SUSI | I love you | I love your * | I am in love with you | I am in love with your * | Love you
-!example:I love your answers SUSI
+I love your * SONYA | I love you SONYA | I love you | I love your * | I am in love with you | I am in love with your * | Love you
+!example:I love your answers SONYA
 Thank you so much. I love you too.Have a nice day!
 
 

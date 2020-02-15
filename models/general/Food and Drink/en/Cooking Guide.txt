@@ -2,7 +2,7 @@
 ::name Cooking Guide
 ::author Uday Theja
 ::author_url https://github.com/uday96
-::description Feeling hungry, don't know how to cook, ask susi to help you out.Susi will tell the recipe and ingredients you need.
+::description Feeling hungry, don't know how to cook, ask sonya to help you out.Sonya will tell the recipe and ingredients you need.
 ::dynamic_content Yes
 ::image images/cooking_guide.png
 

@@ -1,5 +1,5 @@
 ::protected No
-::author_email andre4862vitor23@gmail.com
+::author_email 
 ::name Identity
 ::category Knowledge
 ::language en
@@ -17,4 +17,4 @@
 What are your name?|query2|query3...
 !example:<The question that should be shown in public skill displays>
 !expect:<The answer expected for the above example>
-My name is SUSI
+My name is Sonya

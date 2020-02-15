@@ -1,9 +1,9 @@
 ::protected No
-::author_email rishit.dagli@gmail.com
+::author_email 
 ::name random color
 ::category Games, Trivia and Accessories
 ::language en
-::author Rishit Dagli
+::author
 ::author_url rishitdagli.ml
 ::description Just a simple random number generator and color generator
 ::dynamic_content No

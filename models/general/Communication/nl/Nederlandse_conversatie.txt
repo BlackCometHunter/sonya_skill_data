@@ -1,9 +1,9 @@
 ::protected No
-::author_email patrick@patenmon.com
+::author_email 
 ::name Nederlandse conversatie
 ::category Communication
 ::language nl
-::author Patrick Jenner
+::author 
 ::author_url <author_url>
 ::description <description> 
 ::dynamic_content <Yes/No>
@@ -22,7 +22,7 @@
 Jazeker doe ik dat!|Ik doe mijn best|Natuurlijk, versta je mij?|De ene dag beter dan de andere|Alleen wanneer ik nuchter ben
 
 ik heet *
-Hallo $1$>_naam, ik heet SUSI
+Hallo $1$>_naam, ik heet SONYA
 
 wie ben ik|hoe heet ik|wat is mijn naam
 ?$_naam$:Volgens mij ben jij nog steeds $_naam$:Wim? Kees? Zus? Jet? Ik geef het op!

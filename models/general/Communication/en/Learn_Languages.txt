@@ -1,9 +1,9 @@
 ::protected No
-::author_email sk9331657@gmail.com
+::author_email 
 ::name Learn Languages
 ::category Communication
 ::language en
-::author Shubham Kumar
+::author 
 ::author_url <author_url>
 ::description <description> 
 ::dynamic_content <Yes/No>

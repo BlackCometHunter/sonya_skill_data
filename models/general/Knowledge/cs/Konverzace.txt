@@ -1,9 +1,9 @@
 ::protected No
-::author_email sinope@seznam.cz
+::author_email 
 ::name Konverzace
 ::category Knowledge
 ::language cs
-::author Michal
+::author
 ::author_url <author_url>
 ::description <description> 
 ::dynamic_content No

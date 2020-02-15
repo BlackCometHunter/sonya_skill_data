@@ -1,9 +1,9 @@
 ::protected No
 ::author_email victorianf.89@hotmail.com
-# SUSI Skill tutorial playground
+# SONYA Skill tutorial playground
 
 * CONTINUITY
-!image:images/English-Standalone-aiml2susi.png
+!image:images/English-Standalone-aiml2sonya.png
 I am just trying to keep the conversation lively.
 
 * ARE ROSES RED ?
@@ -14,4 +14,4 @@ Roses does not exist.
 roses are red
 
 * DO
-SUSI is a hack
+SONYA is a hack

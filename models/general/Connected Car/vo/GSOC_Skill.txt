@@ -1,9 +1,9 @@
 ::protected No
-::author_email shubhamsuperpro@gmail.com
+::author_email 
 ::name GSOC Skill
 ::category Connected Car
 ::language vo
-::author Shubham Gupta
+::author 
 ::author_url <author_url>
 ::description <description> 
 ::dynamic_content <Yes/No>

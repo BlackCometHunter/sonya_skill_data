@@ -1,5 +1,5 @@
 ::protected No
-::author_email benjamin.werner@irie-web.de
+::author_email 
 ::name My First Tutorial Skill
 ::category Art and Beauty
 ::language en

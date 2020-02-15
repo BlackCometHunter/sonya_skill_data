@@ -2,7 +2,7 @@
 ::name Draw A Card
 ::author Saurabh Jain
 ::author_url https://github.com/saurabhjn76
-::description Ask SUSI to pick a random card for you.
+::description Ask SONYA to pick a random card for you.
 ::dynamic_content Yes
 ::image images/draw_a_card.png
 draw a card| pick a card at random | pick a card |pick a random card from deck|draw a card at random

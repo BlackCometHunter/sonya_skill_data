@@ -1,5 +1,5 @@
 ::protected No
-::author_email chan.wenyun.valerie@dhs.sg
+::author_email 
 ::name Foodbot
 ::category Food and Drink
 ::language en

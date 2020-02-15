@@ -1,5 +1,5 @@
 ::protected No
-::author_email isaac@anyitomizayi.com
+::author_email 
 ::name Farming
 ::category Business and Finance
 ::language en

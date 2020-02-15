@@ -1,11 +1,11 @@
 ::protected No
-::author_email bhadreshpsavani@gmail.com
+::author_email 
 ::name Male or Female
 ::category Communication
 ::language en
-::author bhadresh   
-::author_url bhadreshpsavani@gmail.com
-::description This is to address questions like male or female asked to susi, to make it perfect
+::author 
+::author_url 
+::description This is to address questions like male or female asked to sonya, to make it perfect
 ::dynamic_content <Yes/No>
 ::developer_privacy_policy <link>
 ::image images/<image_name>

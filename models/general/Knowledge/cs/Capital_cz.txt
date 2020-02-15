@@ -1,10 +1,10 @@
 ::protected No
-::author_email sinope@seznam.cz
+::author_email 
 ::name Capital_cz
 ::category Knowledge
 ::language cs
-::author Chashmeet Singh
-::author_url https://github.com/chashmeetsingh
+::author 
+::author_url
 ::description A skill to tell user about capital of any country.
 ::dynamic_content Yes
 ::developer_privacy_policy

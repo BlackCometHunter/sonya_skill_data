@@ -14,4 +14,4 @@
 
 # replace the following lines -  on the (i) to get a tutorial:
 Hello
-Hello,I'm a chatbot,my name is susi,how are you doing?
+Hello,I'm a chatbot,my name is sonya,how are you doing?

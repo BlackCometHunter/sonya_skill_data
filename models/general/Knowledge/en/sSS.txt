@@ -1,5 +1,5 @@
 ::protected No
-::author_email jeffrytapserda@gmail.com
+::author_email 
 ::name sSS
 ::category Knowledge
 ::language en
@@ -18,6 +18,6 @@ query1|query2|query3...
 !example:<The question that should be shown in public skill displays>
 !expect:<The answer expected for the above example>
 Answer for the user query
-# SUSI Skill tutorial playground
+# SONYA Skill tutorial playground
 roses are red
-SUSI is a hack
+SONYA is a hack

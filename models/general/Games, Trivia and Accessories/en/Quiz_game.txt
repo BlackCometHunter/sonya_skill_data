@@ -1,9 +1,9 @@
 ::protected No
-::author_email anna.groshenkova@gmail.com
+::author_email 
 ::name Quiz game
 ::category Games, Trivia and Accessories
 ::language en
-::author angr_pukhlya
+::author 
 ::author_url <author_url>
 ::description <description> 
 ::dynamic_content <Yes/No>

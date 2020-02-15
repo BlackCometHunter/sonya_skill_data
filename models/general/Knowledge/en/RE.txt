@@ -1,5 +1,5 @@
 ::protected No
-::author_email jeffrytapserda@gmail.com
+::author_email 
 ::name RE
 ::category Knowledge
 ::language en
@@ -18,10 +18,10 @@ query1|query2|query3...
 !example:<The question that should be shown in public skill displays>
 !expect:<The answer expected for the above example>
 Answer for the user query
-# SUSI.AI tutorial playground
+# SONYA.AI tutorial playground
 ::prior
 roses are red
-susi is a hack
+sonya is a hack
 skynet is back
 What is your favorite dish
 Vegetables|Fish|Fuck your mom

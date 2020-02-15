@@ -1,7 +1,7 @@
 ::protected No
-::author_email pecbossgams@gmail.com
+::author_email 
 ::protected No
-::author_email pecbossgams@gmail.com
+::author_email 
 ::name <amos_bot_local>
 ::category Interests
 ::language id

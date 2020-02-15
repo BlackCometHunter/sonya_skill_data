@@ -1,12 +1,12 @@
 ::protected No
-::author_email 1anuppanwar@gmail.com
+::author_email 
 ::protected No
-::author_email 1anuppanwar@gmail.com
+::author_email 
 ::name Roll a Die
 ::category Games, Trivia and Accessories
 ::language en
-::author Anup Kumar Panwar
-::author_url https://github.com/anupkumarpanwar
+::author
+::author_url 
 ::description A skill to roll a die and tell the number on the die. 
 ::dynamic_content No
 ::image images/gambler.png

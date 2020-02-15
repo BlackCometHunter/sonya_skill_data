@@ -1,5 +1,5 @@
 ::protected No
-::author_email yashsri421@gmail.com
+::author_email 
 ::name skill1
 ::category Communication
 ::language en
@@ -13,4 +13,4 @@
 
 
 User What's your namewa?
-Answer Susi
+Answer Sonya

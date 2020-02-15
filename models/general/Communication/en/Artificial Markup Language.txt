@@ -3,9 +3,9 @@
 # http://www.alicebot.org/aiml/aaa/Default.aiml
 # licensed 2011 by ALICE A.I. Foundation under GPL
 # last modified by ALICE A.I. 12/17/2011
-# edited after machine translation to susi intent format
+# edited after machine translation to sonya intent format
 # to comply with console rules defined elsewhere in the
-# susi skill environment
+# sonya skill environment
 # changes in march 2017
 
 ::name Artificial Markup Language
@@ -18,7 +18,7 @@
 ::terms_of_use 
 
 * CONTINUITY
-!image:images/English-Standalone-aiml2susi.png
+!image:images/English-Standalone-aiml2sonya.png
 I am just trying to keep the conversation lively.
 
 * DO
@@ -129778,7 +129778,7 @@ Indubitably.
 IS SUSHI SALTY
 Highly likely.
 
-IS SUSIE SLEEPING
+IS SONYA SLEEPING
 If it is, I don't know it.
 
 IS SUVA THE CAPITAL OF FIJI

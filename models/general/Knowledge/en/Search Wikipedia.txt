@@ -1,11 +1,11 @@
 ::protected No
-::author_email alexl.id.at@gmail.com
+::author_email 
 ::name Search Wikipedia
 ::category Knowledge
 ::language en
-::author alexl.id.at@gmail.com
+::author 
 ::author_url <author_url>
-::description Get an overview of a Wikipedia article by asking SUSI Tell me something about india/germany/... - The first skill (overview) should work on nearly all queries, but the second (details) does only work on wiki queries, where there is a definate response. 
+::description Get an overview of a Wikipedia article by asking SONYA Tell me something about india/germany/... - The first skill (overview) should work on nearly all queries, but the second (details) does only work on wiki queries, where there is a definate response. 
 ::dynamic_content <Yes/No>
 ::developer_privacy_policy <link>
 ::image images/<image_name>

@@ -5,7 +5,7 @@
 ::language en
 ::author agricola
 ::author_url <author_url>
-::description Attempt and test to implement https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math into  SUSI.AI 
+::description Attempt and test to implement https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math into  SONYA.AI 
 ::dynamic_content <Yes/No>
 ::developer_privacy_policy <link>
 ::image images/Разнообразие_семян_small.jpg

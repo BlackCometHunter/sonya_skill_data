@@ -1,5 +1,5 @@
 ::protected No
-::author_email hellguyshubham@gmail.com
+::author_email
 ::name heya
 ::category Communication
 ::language en

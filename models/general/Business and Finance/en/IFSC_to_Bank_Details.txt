@@ -1,9 +1,9 @@
 # In first parameter you pass the IFSC code of the bank.
 
 ::name IFSC to Bank Details
-::author_email coolakshat24@gmail.com
-::author Akshat Garg
-::author_url https://github.com/akshatnitd
+::author_email 
+::author 
+::author_url 
 ::description It is a bank lookup skill that takes in IFSC code from the user and provides you all the necessary details for the Bank. It is valid for banks in India only
 ::dynamic_content Yes
 ::developer_privacy_policy 

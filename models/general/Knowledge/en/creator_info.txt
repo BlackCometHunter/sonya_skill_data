@@ -1,14 +1,14 @@
 ::name Creator Info
-::author Madhav Rathi
-::author_url https://github.com/madhavrathi
+::author Marino Sony
+::author_url 
 ::image images/creator_info.png
 ::dynamic_content No
-::description Want to know about fossasia, just ask susi to tell that, Susi tells about the SUSI.AI creators
+::description Want to know about BlackCometHunter, just ask sonya to tell that, Sonya tells about the SONYA.AI creators
 
 who made you?|who created you? | please tell me who made you?| please tell me who created you? | tell me who made you?| tell me who created you? | can you tell me who made you?| can you tell me who created you? | could you tell me who made you?| could you tell me who created you? | * who made you | * who created you 
 !example:Who created you?
-The FOSSASIA community created me
+The BlackCometHunter company created me
 
-what is fossasia? | please tell me what is fossasia?| please tell me about Fossasia| I don't know about fossasia | what if I don't know about fossasia | can you please tell me what is fossasia?| can you please tell me about Fossasia | tell me what is fossasia?| tell me about Fossasia | could you tell me what is fossasia?| could you tell me about Fossasia | what is fossasia about ?
-!example:what is fossasia? 
-An Open Source Community,you should check it out http://fossasia.org/
+what is Blackcomethunter? | please tell me what is Blackcomethunter?| please tell me about Blackcomethunter| I don't know about blackcomethunter | what if I don't know about blackcomethunter | can you please tell me what is blackcomethunter?| can you please tell me about Blackcomethunter | tell me what is blackcomethunter?| tell me about Blackcomethunter | could you tell me what is blackcomethunter?| could you tell me about Blackcomethunter | what is Blackcomethunter about ?
+!example:what is Blackcomethunter? 
+An expert AI company

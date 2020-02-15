@@ -1,5 +1,5 @@
 ::protected No
-::author_email rahulmuj@gmail.com
+::author_email 
 ::name CryptoRates
 ::category Business and Finance
 ::language en

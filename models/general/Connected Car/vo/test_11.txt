@@ -1,9 +1,8 @@
 ::protected No
-::author_email 29hj29@gmail.com
-::name test_11
+::author_email 
 ::category Connected Car
 ::language vo
-::author harsh
+::author 
 ::author_url <author_url>
 ::description <description> 
 ::dynamic_content <Yes/No>

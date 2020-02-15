@@ -1,6 +1,6 @@
 ::protected No
-::author_email smr04.2020@gmail.com
-::name Siri_2.0
+::author_email 
+::name 
 ::category Social
 ::language en spanish
 ::author <author_name>
@@ -12,8 +12,8 @@
 ::terms_of_use <link>
 
 
-# SUSI.AI tutorial playground
+# SONYA.AI tutorial playground
 ::prior
 roses are red
-susi is a hack
+sonya is a hack
 skynet is back

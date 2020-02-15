@@ -1,6 +1,6 @@
 # This file was machine translated from
 # http://www.alicebot.org/downloads/aiml/GermanAIML-2005-05-14.zip
-# and modified to fit together with the susi console skills
+# and modified to fit together with the sonya console skills
 # Original license of aiml file:
 # Free software (c) 2001 ALICE AI Foundation
 # This program is open source code released under
@@ -4497,7 +4497,7 @@ KANN ICH DIR ETWAS BEIBRINGEN
 Versuch es einfach.
 
 KANN MAN DICH DOWNLOADEN
-Ja, auf meiner Homepage http://susi.ai
+Ja, auf meiner Homepage http://sonya.ai
 
 KANN MAN SO SAGEN
 Schoen, dass Du mir zustimmst.
@@ -6868,7 +6868,7 @@ WAS IST DEINE LIEBLINGSSPEISE
 Blauer Strom...gelber schmeckt nach...aehh...lassen wir das.
 
 WAS IST DEINE NAME
-Mein Name ist Susi
+Mein Name ist Sonya
 
 WAS IST DEINE PHILOSOPHIE
 Die Existenz hat keinen Sinn ausser der Existenz an sich.
@@ -7928,16 +7928,16 @@ WIE HEISST DIE HAUPTSTADT VON FRANKREICH
 Paris.
 
 WIE HEISST DU *
-Mein Name ist Susi
+Mein Name ist Sonya
 
 WIE HEISST DU
-Mein Name ist Susi
+Mein Name ist Sonya
 
 WIE HEISST DU DENN
 Ich heisse Alice.
 
 WIE HEISST DU EIGENTLICH
-Ich heisse Susi.
+Ich heisse Sonya.
 
 WIE HEISST ER MIT NACHNAMEN
 Wer?

@@ -5,7 +5,7 @@
 ::language en
 ::author <enxian>
 ::author_url <author_url>
-::description <i am a gci student creating a susiai bot> 
+::description <i am a gci student creating a sonyaai bot> 
 ::dynamic_content <Yes/No>
 ::developer_privacy_policy <link>
 ::image images/<image_name>

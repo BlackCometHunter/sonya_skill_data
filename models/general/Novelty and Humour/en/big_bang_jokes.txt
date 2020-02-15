@@ -1,7 +1,7 @@
 ::name Chuck Norris Jokes
-::author Akash Agrawal
-::author_url https://github.com/akash1997
-::description Getting bored? Ask susi to tell you a joke on Chuck Norris.
+::author 
+::author_url 
+::description Getting bored? Ask sonya to tell you a joke on Chuck Norris.
 ::dynamic_content Yes
 ::image images/big_bang_jokes.png
 

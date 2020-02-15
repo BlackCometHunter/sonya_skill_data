@@ -1,9 +1,9 @@
 ::protected No
-::author_email wang.xiaohang@dhs.sg
+::author_email 
 ::name guide
 ::category Food and Drink
 ::language en
-::author xh
+::author 
 ::author_url <author_url>
 ::description <description> 
 ::dynamic_content <Yes/No>

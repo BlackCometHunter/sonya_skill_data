@@ -1,10 +1,10 @@
 ::protected No
-::author_email hayyoulistentome@gmail.com
+::author_email 
 ::name Greetings
 ::category Communication
 ::language en
-::author Amartya Mondal
-::author_url https://github.com/atm1504
+::author 
+::author_url 
 ::description Skill related to greetings 
 ::dynamic_content No
 ::developer_privacy_policy

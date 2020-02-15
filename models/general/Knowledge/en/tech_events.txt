@@ -1,7 +1,7 @@
 ::name Tech Events
-::author Mohit Sharma
-::author_url https://github.com/ms10398
-::description Ask Susi to tell tech events near you
+::author 
+::author_url 
+::description Ask Sonya to tell tech events near you
 ::dynamic_content Yes
 Tell me tech events within * near *,*
 !example:Tell me tech events within 1w near Delhi,IN

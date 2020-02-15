@@ -1,5 +1,5 @@
 ::protected No
-::author_email marvin.m.mellado@gmail.com
+::author_email 
 ::name <tutorial0>
 ::author <name of author>
 ::author_url <author_url>
@@ -10,8 +10,8 @@
 ::term_of_use <link>
 
 
-# SUSI Skill tutorial playground
+# SONYA Skill tutorial playground
 ::prior
 roses are red
-SUSI is a hack
+SONYA is a hack
 skynet is back

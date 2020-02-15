@@ -1,5 +1,5 @@
 ::protected No
-::author_email sinope@seznam.cz
+::author_email 
 ::name Znalosti
 ::category Knowledge
 ::language cs

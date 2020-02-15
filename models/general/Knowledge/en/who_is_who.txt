@@ -1,6 +1,6 @@
 ::name Who is Who
-::author Jyothir Aditya
-::author_url https://github.com/jyoth1raditya
+::author 
+::author_url 
 ::description A skill to tell us who is who. 
 ::dynamic_content Yes
 ::developer_privacy_policy

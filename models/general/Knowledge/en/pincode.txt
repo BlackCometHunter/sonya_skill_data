@@ -1,10 +1,10 @@
 # In first parameter you pass the pincode of a city.
 
 ::name Pincode
-::author Chetan Kaushik
-::author_url https://github.com/dynamitechetan
+::author 
+::author_url 
 ::dynamic_content Yes
-::description Postal code lookup skill. Know the details of city using the postal code, Susi will provide you to the name, longitude and latitude of that city.
+::description Postal code lookup skill. Know the details of city using the postal code, Sonya will provide you to the name, longitude and latitude of that city.
 ::image images/pincode.jpeg
 ::terms_of_use 
 ::developer_privacy_policy

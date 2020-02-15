@@ -1,6 +1,6 @@
 ::name Tweets
-::author Rishi Raj
-::author_url https://github.com/rishiraj824
+::author 
+::author_url 
 ::description A skill that return a list of tweets about the given field.
 ::dynamic_content Yes
 ::developer_privacy_policy
@@ -35,7 +35,7 @@ eol
 
 #Retrun tweets having a user mentioned in any tweets
 tweets having *| 5 tweets with *|Latest tweets having *|Give me tweets having *| Tell me tweets having *| what are latest tweets having *| what are the latest tweets having *| Can you give me tweets having *| I want tweets having*| I need tweets having * | tweets with username * in twitter | * in twitter | * in tweets
-!example:tweets with username asksusi in twitter
+!example:tweets with username asksonya in twitter
 !console:
     {"url":"http://api.loklak.org/api/search.json?q=@$1$&source=cache&count=5",
     "path":"$.statuses",

@@ -1,11 +1,11 @@
 ::protected No
-::author_email saarthakchats05@gmail.com
-::name Savage
+::author_email 
+::name 
 ::category Novelty and Humour
 ::language en
-::author saarthakchats
-::author_url https://github.com/saarthakchats
-::description A skill created to give Susi its sense of humour, making it badass to say the least.
+::author 
+::author_url
+::description A skill created to give Sonya its sense of humour, making it badass to say the least.
 ::dynamic_content Yes
 ::developer_privacy_policy <link>
 ::image images/Youreka.PNG

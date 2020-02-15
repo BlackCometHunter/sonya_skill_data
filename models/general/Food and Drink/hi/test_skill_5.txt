@@ -1,9 +1,9 @@
 ::protected No
-::author_email 29hj29@gmail.com
+::author_email 
 ::name test_skill_5
 ::category Food and Drink
 ::language hi
-::author Adolph Blaine Charles David
+::author 
 ::author_url <author_url>
 ::description <description> 
 ::dynamic_content <Yes/No>

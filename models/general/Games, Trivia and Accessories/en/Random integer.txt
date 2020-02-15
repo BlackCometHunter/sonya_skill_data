@@ -1,5 +1,5 @@
 ::protected No
-::author_email a.m.sawicka@wp.pl
+::author_email 
 ::name Random integer
 ::category Games, Trivia and Accessories
 ::language en

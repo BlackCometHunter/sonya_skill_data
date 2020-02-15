@@ -19,5 +19,5 @@ query1|query2|query3...
 !expect: Yes..Yes
 Answer for the user query
 
-# SUSI Skill tutorial playground
+# SONYA Skill tutorial playground
 roses are red

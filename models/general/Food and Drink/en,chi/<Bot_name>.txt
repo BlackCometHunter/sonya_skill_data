@@ -1,5 +1,5 @@
 ::protected No
-::author_email junqi0721@gmail.com
+::author_email 
 ::name <Bot_name>
 ::category Food and Drink
 ::language en,chi

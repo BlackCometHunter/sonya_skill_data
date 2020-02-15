@@ -1,5 +1,5 @@
 ::protected No
-::author_email atulpan98@gmail.com
+::author_email 
 ::name practice
 ::category Knowledge
 ::language en
@@ -12,7 +12,7 @@
 ::terms_of_use <link>
 
 
-# SUSI Skill tutorial playground
+# SONYA Skill tutorial playground
 What is your favorite dish
 Potatoes|Vegetables|Fish|
 

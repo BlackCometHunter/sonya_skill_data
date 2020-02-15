@@ -1,10 +1,10 @@
 ::protected No
-::author_email shreeshkumar2@gmail.com
+::author_email 
 ::name Daisy
 ::category Communication
 ::language en
-::author Shreesh
-::author_url https://github.com/shreeshjha
+::author 
+::author_url 
 ::description This is Daisy(Personal AI Bot , This Bot  is the project for GCI )  it can have show temprature and show some jokes on demand...
 ::dynamic_content Yes
 ::developer_privacy_policy 

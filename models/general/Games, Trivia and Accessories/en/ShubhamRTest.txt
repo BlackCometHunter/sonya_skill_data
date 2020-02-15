@@ -1,9 +1,9 @@
 ::protected No
-::author_email shubhamsuperpro@gmail.com
+::author_email 
 ::name ShubhamRTest
 ::category Games, Trivia and Accessories
 ::language en
-::author Shubham Guptaqweqwerwertwertyertyertyrty
+::author 
 ::author_url <author_url>
 ::description <description> 
 ::dynamic_content <Yes/No>

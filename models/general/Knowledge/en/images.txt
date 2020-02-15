@@ -1,7 +1,7 @@
 ::name Images
-::author Dravit Lochan
-::author_url https://github.com/DravitLochan
-::description Ask Susi to fetch images for you
+::author Marino Sony
+::author_url 
+::description Ask Sonya to fetch images for you
 ::dynamic_content Yes
 ::image images/images.png
 

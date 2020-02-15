@@ -3,7 +3,7 @@
 ::name Chuck Norris Jokes
 ::author Akash Agrawal
 ::author_url https://github.com/akash1997
-::description Getting bored? Ask susi to tell you a joke on Chuck Norris.
+::description Getting bored? Ask sonya to tell you a joke on Chuck Norris.
 ::dynamic_content Yes
 ::image images/cabane-a-sucre-600.jpg
 

@@ -1,10 +1,10 @@
 ::protected No
-::author_email hayyoulistentome@gmail.com
+::author_email 
 ::name Mood
 ::category Health and Fitness
 ::language en
-::author Amartya Mondal
-::author_url https://github.com/atm1504
+::author
+::author_url 
 ::description Skill that responses to queries of mood of an individual
 ::dynamic_content On
 ::developer_privacy_policy <link>

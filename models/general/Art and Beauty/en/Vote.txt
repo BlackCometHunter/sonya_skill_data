@@ -1,5 +1,5 @@
 ::protected No
-::author_email cxzcvbv@janmail.org
+::author_email 
 ::name Vote
 ::category Art and Beauty
 ::language en

@@ -1,5 +1,5 @@
 ::protected No
-::author_email falcorr1@outlook.com
+::author_email 
 ::name kanrisha
 ::category Art and Beauty
 ::language ru

@@ -1,9 +1,9 @@
 ::protected No
-::author_email mark.leonard@dhs.sg
+::author_email 
 ::name Favourite Food
 ::category Food and Drink
 ::language en
-::author mark.leonard
+::author 
 ::author_url https://github.com/dhscomputingmarkleonard
 ::description <description> 
 ::dynamic_content <Yes/No>

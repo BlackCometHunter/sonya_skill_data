@@ -1,10 +1,10 @@
 ::protected No
-::author_email mc@yacy.net
+::author_email 
 ::name KopiExpert
 ::category Food and Drink
 ::language en
-::author Michael Christen
-::author_url https://github.com/Orbiter
+::author 
+::author_url 
 ::description <description> 
 ::dynamic_content <Yes/No>
 ::developer_privacy_policy <link>
