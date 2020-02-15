@@ -1,6 +1,6 @@
 ::name Bitcoin
-::author Saurabh Jain
-::author_url https://github.com/saurabhjn76
+::author
+::author_url 
 ::description A skill to tell bitcoin price and exchange rate of bitcoin and currencies
 ::dynamic_content Yes
 ::developer_privacy_policy

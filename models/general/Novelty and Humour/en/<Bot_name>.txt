@@ -1,5 +1,5 @@
 ::protected No
-::author_email luojiawen554@gmail.com
+::author_email 
 ::name <Bot_name>
 ::category Novelty and Humour
 ::language en

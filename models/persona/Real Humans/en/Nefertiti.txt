@@ -1,10 +1,10 @@
 ::name Nefertiti
-::author Jan Nikolai Nelles, Nora Al-Badri 
-::author_url http://nefertitihack.alloversky.com/
+::author 
+::author_url 
 ::description <description> 
 ::dynamic_content <Yes/No>
 ::developer_privacy_policy <link>
-::image http://nefertitihack.alloversky.com/img/Nefertiti-front-3D-wweb.jpg
+::image 
 ::terms_of_use <link>
 
 
